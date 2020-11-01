@@ -23,5 +23,5 @@
 hs_err_pid*
 
 #temp folder and *tmp
-.temp/
+temp
 *.tmp
